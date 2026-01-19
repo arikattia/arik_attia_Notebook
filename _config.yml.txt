@@ -22,7 +22,7 @@ footer-links:
   email: arieattia1@gmail.com
   facebook:
   flickr:
-  github: /arikattia
+  github: https://github.com/arikattia
   instagram:
   linkedin:
   pinterest:
@@ -42,7 +42,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: "https://github.com/arikattia/arik_attia_Notebook"
+url: "https://github.com/arikattia"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
