@@ -34,4 +34,4 @@
 8.	Let the block chill on ice for a few hours and then transfer to 40c overnight.
 9.	Before sectioning in microtome, chill the blocks on ice or in ice-cold water.
 ### Note: All procedures involving hazardous chemicals (e.g., picric acid, formalin) must follow safety protocols and proper waste disposal guidelines.
-### Written by Arik Attia on May 2, 2026
+### Written by Arik Attia on fabuary 2, 2026
